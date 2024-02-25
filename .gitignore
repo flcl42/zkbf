@@ -1,0 +1,10 @@
+
+.vscode
+.vs
+
+bin/
+obj/
+
+*.exe
+*.obj
+*.pdb
